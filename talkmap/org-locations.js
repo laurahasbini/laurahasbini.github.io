@@ -1,22 +1,42 @@
 var addressPoints = [
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "EGU25<br />European Geosciences Union General Assembly; Vienna, Austria",
+    48.2083537,
+    16.3725042
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "IMSC 2024<br />15th International Meeting on Statistical Climatology (IMSC); Toulouse, France",
+    43.6044638,
+    1.4442433
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "10th workshop on European Storms<br />10th Workshop on European Storms; Bern, Switzerland",
+    46.9484742,
+    7.4521749
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536923,
-    -118.2427676
+    "Advanced Training Module on Climate Attribution<br />University of Leipzig; Leipzig, Germany",
+    51.3406321,
+    12.3747329
+  ],
+  [
+    "EGU26<br />European Geosciences Union General Assembly; Vienna, Austria",
+    48.2083537,
+    16.3725042
+  ],
+  [
+    "Arts & Sciences School in Roscoff : Oceans, climate and transformations<br />Centre biologique de Roscoff; Roscoff, France",
+    48.7255816,
+    -3.9828983
+  ],
+  [
+    "3rd Como Training School on Compound climate-related Events<br />15th International Meeting on Statistical Climatology (IMSC); Como, Italy",
+    45.9395857,
+    9.1493609
+  ],
+  [
+    "ECSS<br />12th European Conference of Severe Storms; Utrecht, Netherlands",
+    52.0841923,
+    5.0988034
   ]
 ];
