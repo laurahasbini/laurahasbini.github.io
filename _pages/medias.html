@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Medias"
+permalink: /medias/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.medias reversed %}
+  {% include archive-single.html %}
+{% endfor %}
