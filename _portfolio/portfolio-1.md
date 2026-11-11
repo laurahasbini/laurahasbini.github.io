@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Recifs"
+excerpt: "Performance participative | Collectif Minuit 12"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project was organized by the danse Collectif Minuit 12 and the Association Bloom. See the [Recifs project page](https://collectif-minuit12.com/recifs/).
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/watch?v=RL6wpArIdqQ"
+  title="Project video"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
